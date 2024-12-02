@@ -4,7 +4,7 @@ Welcome to _Hometown - Planet Earth_! This is a responsive and visually engaging
 
 ## 🌐 Live Link
 
-[View Live Project](https://your-live-project-link-here)
+[View Live Project](https://kabeer100xdev.github.io/Scrimba-solo-Projects/)
 
 ## 🛠️ Features
 
